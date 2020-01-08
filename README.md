@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# Introduction, and thoughts on a growth mindset
 
-You can use the [editor on GitHub](https://github.com/Janglybits/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+On the [Atlassian Blog](https://www.atlassian.com/blog/inside-atlassian/growth-mindset), Steve Haffenden shares his thoughts about a growth mindset in regards to software development. Essentially, that attitude, effort, and learning are more valuable in the long run than just talent and natural intelligence.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Ways that I think I can apply a growth mindset
+1. When I'm stuck, I tend to focus on the solution. While this is beneficial in other aspects of life, while learning I need to also focus on **how** the problem occured.
+2. At times (professionally) I can get frustrated by the exectations of non-technical staff. When they ask for a lot, I need to remember that it's because they believe that I can do it.
+3. I need to be easier on myself. My first go round with being a developer ended with a crushing case of imposter syndrome. Much like being a musician, being a developer involves lifelong learning and the chase of mastery. There are always new things to learn and get better at.
 
-### Markdown
+### An introduction
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Janglybits/learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thanks for visiting my learning journal! I'm Chris, a student at DeltaV Code School in Cedar Rapids, Iowa. You can find my GitHub portfolio page at https://github.com/Janglybits
