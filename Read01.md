@@ -3,7 +3,7 @@
 For Read:01 I decided to take Craig's advice and make a true/false quiz!
 
 ## Read: 01 True/False questions
-##True or false?
+True or false?
 
 1. Text size can be modified in markdown by starting a line with one or more "#" symbols?
 
