@@ -1,6 +1,6 @@
-#Document in your journal the different classifications of text editors, and why it’s important for software developers to be thoughtful about their selection of what they use to write code.
+Document in your journal the different classifications of text editors, and why it’s important for software developers to be thoughtful about their selection of what they use to write code.
 
-##As far as classifications, it basically breaks down into three main types
+As far as classifications, it basically breaks down into three main types
 
 1. Barebones text editors. Things along the lines of the basic Notepad application in Windows. These have no functionality outside of entering text.
 2. 3rd arty text editors. These usually contain additional features to make your life easier, like syntax highlighting, code completion, and file management.
