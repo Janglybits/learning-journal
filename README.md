@@ -10,3 +10,7 @@ On the [Atlassian Blog](https://www.atlassian.com/blog/inside-atlassian/growth-m
 ### An introduction
 
 Thanks for visiting my learning journal! I'm Chris, a student at DeltaV Code School in Cedar Rapids, Iowa. You can find my GitHub portfolio page at https://github.com/Janglybits
+
+### Table of Contents
+1. [Read01](https://github.com/Janglybits/learning-journal/blob/master/Read01.md)
+2. [Read02](https://github.com/Janglybits/learning-journal/blob/master/read02.md)
